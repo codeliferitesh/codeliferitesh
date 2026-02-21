@@ -18,7 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=codeliferitesh&theme=onedark&row=2&column=3)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codeliferitesh&icon=0&color=0)](https://visitcount.itsvg.in)
