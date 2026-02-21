@@ -20,7 +20,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codeliferitesh&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=codeliferitesh&theme=onedark&row=1&column=6"/>
 </p>
 
 ---
