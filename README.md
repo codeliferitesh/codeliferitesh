@@ -18,11 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🎮 Pacman Contribution Graph
 
-## 🎮 Pacman Contribution Graph
-
-![Pacman Graph](https://raw.githubusercontent.com/abozanona/codeliferitesh/output/pacman.svg)
 
 
 
