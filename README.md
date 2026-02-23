@@ -20,7 +20,9 @@
 
 ## 🎮 Pacman Contribution Graph
 
-![Pacman Graph](https://raw.githubusercontent.com/codeliferitesh/codeliferitesh/output/pacman.svg)
+## 🎮 Pacman Contribution Graph
+
+![Pacman Graph](https://raw.githubusercontent.com/abozanona/codeliferitesh/output/pacman.svg)
 
 
 
